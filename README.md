@@ -50,6 +50,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ## Javascript
 
 * [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
+* [Google Javascript Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 ### lodash
 
